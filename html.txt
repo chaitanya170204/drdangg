@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/chaitanya.kapoor/Downloads/Archana%20Gupta%20covid%20report.pdf">example</a>.</p>
+  </body>
+</html>
